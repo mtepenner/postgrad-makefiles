@@ -1,7 +1,7 @@
 #### Overview
 This project contains three dedicated Makefiles designed to save time by automating Git versioning, polyglot environment setup, and Linux system hardening. 
 
-#### 1. Git Automation (`git-automation`)
+#### 1. Git Automation (`git-automation/Makefile`)
 This Makefile automates standard Git revision processes and semantic versioning. It uses a `VERSION` file as the single source of truth to manage release numbers.
 
 **Commands:**
